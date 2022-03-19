@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T06:37:00.407Z" agent="5.0 (Windows)" etag="sVxgimzOU86aP4C1Uanc" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T23:02:11.560Z" agent="5.0 (Windows)" etag="MVTxd4FG-WPivwkeinck" version="17.1.3" type="github">
   <diagram id="iLRpVlKP15bBZHzSlkDS" name="Page-1">
     <mxGraphModel dx="2062" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,10 +139,10 @@
         <mxCell id="QFBkDHnebfvaFeIGUoQ--1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QFBkDHnebfvaFeIGUoQ--2" value="2.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QFBkDHnebfvaFeIGUoQ--2" value="2.3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="490" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QFBkDHnebfvaFeIGUoQ--3" value="&lt;div&gt;Thresholding&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QFBkDHnebfvaFeIGUoQ--3" value="Image Segmentation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="530" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QFBkDHnebfvaFeIGUoQ--7" value="&lt;div&gt;3.0 is a special case. Although in the final system it will be a simple classification step, to build the classifier will not be simple. The classifier will be created using the following structure, which is modifiable and reusable.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
